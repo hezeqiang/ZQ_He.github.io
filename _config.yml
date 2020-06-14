@@ -45,7 +45,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['github','zhihu']
+social-share-items: ['github','zhihu','email']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
@@ -57,7 +57,8 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   github: '//github.com/hezeqiang'
-  # zhihu:'//www.zhihu.com/people/he-ze-qiang-22'
+  email: '13306523806@163.com'
+  zhihu: '//www.zhihu.com/people/he-ze-qiang-22-'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
